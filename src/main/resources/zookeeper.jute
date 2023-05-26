@@ -1,4 +1,3 @@
-module com.yahoo.zookeeper.data {
     class Id {
     	ustring scheme;
     	ustring id;
